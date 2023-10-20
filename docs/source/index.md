@@ -6,3 +6,7 @@
  - You should be brought to our [Top.gg Page](https://top.gg/bot/1063461122553942077) that looks something like this.
 
 ![Top.gg](https://ibb.co/hcMMgb1)
+
+![Click Accept](https://ibb.co/vZpVdZH)
+
+![Click invite](https://ibb.co/jzTCdfh)
