@@ -24,4 +24,4 @@ But if you don't feel confident giving some permissions, you could just disable 
 
 # Features
 
-- [Minigames (Singleplayer)](https://discord-playground.readthedocs.io/en/latest/#features)
+- [Minigames (Singleplayer)](https://discord-playground.readthedocs.io/en/latest/minigames.html)
