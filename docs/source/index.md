@@ -20,3 +20,8 @@ But if you don't feel confident giving some permissions, you could just disable 
 
  - To check if everything is setup correctly enter `/bot check`
 
+
+
+# Features
+
+- [Minigames (Singleplayer)](https://discord-playground.readthedocs.io/en/latest/Minigames.html)
